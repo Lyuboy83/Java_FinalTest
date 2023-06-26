@@ -183,7 +183,7 @@
 
 # from random import randint
 
-# n = int(input())
+# n = int(input("ВВедите число N:"))
 
 # mass_water = randint(0,20)
 # min_n = mass_water
